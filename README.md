@@ -3,5 +3,8 @@ Simulator for determination if portssystemic shunt fraction in cats using time a
 
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fintan-McEvoy/Shunt-Fraction/main?labpath=shuntFractionGH.ipynb)
 
-https://mybinder.org/v2/gh/Fintan-McEvoy/Shunt-Fraction/main?labpath=shuntFractionGH.ipynb
+
+
+
